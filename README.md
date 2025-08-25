@@ -3,12 +3,8 @@
 </div>
 
 <div align="center">
-<h1>
-Kanish Rawal
-</h1>
-<h3>
-An Architect of Digital Realities & Student of Computational Arts
-</h3>
+<h1>Kanish Rawal</h1>
+<h3>Computer Science Engineer | Full-Stack Developer | Problem Solver</h3>
 </div>
 
 <div align="center">
@@ -16,44 +12,43 @@ An Architect of Digital Realities & Student of Computational Arts
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 <a href="https://x.com/kanish__9">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/X-000000%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3Dwhite" alt="X/Twitter"/>
 </a>
-<a href="mailto:rawal.kanish@example.com">
+<a href="mailto:kanishrawal98@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </div>
 
-manifesto.txt
-I am a code-alchemist at Vishwakarma University, Pune, transmuting complex problems into elegant, scalable solutions. My sandbox is the command line, my spells are written in Python and Java, and my quest is to challenge the paradigms of modern technology. I don't just see the ones and zeros; I see the symphony they compose, the worlds they can build, and the futures they can unlock.
+👨‍💻 About Me
+I'm a Computer Science Engineering student at Vishwakarma University, Pune, driven by a passion for building efficient, scalable, and impactful software. I thrive on turning complex challenges into clean, elegant code. My focus is on full-stack development, where I can architect and build complete applications from the database to the user interface. I'm always exploring new technologies to sharpen my skills and build better digital experiences.
 
-🌌 Forging in the Digital Anvil: A decentralized trust protocol designed to dismantle the silos of digital identity.
+🚀 I’m currently building a full-stack project management application with real-time collaboration features.
 
-🧠 Descending the Rabbit Hole of: The esoteric principles of Zero-Knowledge Proofs and the philosophical labyrinth of emergent AI consciousness.
+📚 I’m deepening my understanding of system design principles and cloud-native technologies like Docker and Kubernetes.
 
-🤝 Summoning Allies For: Audacious quests to deconstruct and rebuild the foundational pillars of the open web.
+🤝 I’m open to collaborating on innovative open-source projects, particularly in the web development space.
 
-💬 Converse With Me About: The existential beauty of algorithms, the grand strategy of system design, or the subtle art of kernel-level optimizations.
+💬 Ask me about Java, Python, the MERN stack, or anything related to software architecture.
 
-📫 Signal Path: rawal.kanish@example.com
+📫 How to reach me: kanishrawal98@gmail.com
 
-⚡ A Glitch in My Matrix: My brain is hardwired to find the optimal path in a grocery store.
+⚡ Fun fact: I believe any problem can be solved with enough coffee and a clear whiteboard.
 
-🛠️ My Arsenal
+🛠️ Tech Stack
 <p align="center">
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,python,cpp,js,react,nodejs,express,mongodb,docker,kubernetes,git,linux%26perline%3D6" />
 </p>
 
-📊 GitHub Pulse
+📊 My GitHub Activity
 <div align="center">
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkanishrawal%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Kanish Rawal's GitHub Stats"/>
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dkanishrawal%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue" alt="Top Languages"/>
-<img width="90%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dkanishrawal%26theme%3Ddracula%26hide_border%3Dtrue" alt="GitHub Streak"/>
+<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DkanishRawal%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Kanish Rawal's GitHub Stats"/>
+<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DkanishRawal%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue" alt="Top Languages"/>
+<img width="90%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DkanishRawal%26theme%3Ddracula%26hide_border%3Dtrue" alt="GitHub Streak"/>
 </div>
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dkanishrawal%26theme%3Ddracula%26hide_border%3Dtrue%26line%3Dff79c6%26point%3Dbd93f9%26area%3Dtrue" alt="GitHub Activity Graph"/>
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DkanishRawal%26theme%3Ddracula%26hide_border%3Dtrue%26line%3Dff79c6%26point%3Dbd93f9%26area%3Dtrue" alt="GitHub Activity Graph"/>
 </div>
 
 <div align="center">
-<h3>"The machine does not isolate man from the great problems of nature but plunges him more deeply into them."</h3>
-<h4>- Antoine de Saint-Exupéry</h4>
+<h3>"The best way to predict the future is to build it."</h3>
 </div>
