@@ -15,7 +15,7 @@
 📫 Reach Me: kanishrawal98@gmail.com
 
 🛠️ My Tech Stack
-Java | Python | JavaScript | React | Node.js | Express | MongoDB | Docker | Kubernetes | Git | Linux
+Java | Python | JavaScript | React | Node.js | Express | MongoDB | Docker | Git 
 
 🤝 Connect with Me
 <a href="https://www.linkedin.com/in/kanish-rawal-b70a53326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedin</a> | <a href="https://x.com/_kanish__9_?t=BJThS8g6LKBymnGWRwE1hA&s=09">X</a>
